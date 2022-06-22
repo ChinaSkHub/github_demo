@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log('demo->index.js');
+console.log('github_demo->index.js');
